@@ -1,0 +1,50 @@
+.box{
+    width: 800px;
+    height: 550px;
+    border: 2px solid darkblue;
+    margin: auto;
+    background-color: skyblue;
+    
+}
+/* .all2{
+    margin-left: 400px;
+} */
+.all1{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    width: 300px;
+    margin-left: 400px;
+ }
+ .reg{
+    text-align: center;
+ }
+input{
+    border-radius: 15px;
+    width: 300px;
+    height: 30px;
+    border: 2px solid darkblue;
+}
+textarea{
+    width: 300px;
+    height: 200px;
+    resize: none;
+    border-radius: 15px;
+    border: 2px solid darkblue;
+}
+.but{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 75px;
+    margin-top: 10px;
+    background-color: rgb(17, 174, 17);
+    color: white;
+}
+img{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
